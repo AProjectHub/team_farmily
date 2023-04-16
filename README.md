@@ -1,5 +1,10 @@
 # Farmily - one stop for Indian farmers
 
+#Team Members
+-Valhari Meshram
+-Vishakha Fulare
+-Viranchi Dakhare
+-Aman Raut
 ### Important Links
 
 [Demo video link]()
