@@ -1,4 +1,4 @@
-# KisanSeva - one stop for Indian farmers
+# Farmily - one stop for Indian farmers
 
 ### Important Links
 
