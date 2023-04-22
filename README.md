@@ -19,7 +19,9 @@
 
 ### Overview
 
-A Flutter App , but with a blend of Machine Learning in it and intergrated with a whole lot of features which makes it probably the best of the apps I have worked so far. 
+"KisanSeva"  - a one-stop for Farmers of India who are facing a whole lot of issues nowadays.
+
+The app has multiple features - 1- Secured Authentication (via OTP) 2- Multilingual for efficient use 2- Rent tools/farming essentials 3- Plant disease detection 4- Crop prediction 5- Smart connect to prevent third party person take advantage
 
 So we built this "KisanSeva" app - a one stop for Farmers of India who are facing a whole lot issues nowadays .
 
@@ -50,20 +52,6 @@ The best thing about the app is its built in 10 days !!!
 * Numpy
 * Real-time Database
 
-### Usage
-
-_In order to run the application on your local device make sure to have flutter environment setup on your local device_
-
-[Flutter setup video](https://www.youtube.com/watch?v=fDnqXmLSqtg "Video")
-
-_Clone the repo and open it in any text editor - VS Code for example_
-
-_Connect your mobile in USB Debug mode_
-
-_write in terminal "flutter run"_
-
-### Tracks used
-_Agriculture :-  Since farmers are facing a lot of issues and there is protest going on which has worsened the situation so we decided to come up with a smart solution to the problem by including features like Rent tools and Smart connect to the Mandi which will surely propel the growth of farmers._
 
 ### Proposed add on features
  
