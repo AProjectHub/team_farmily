@@ -36,8 +36,6 @@ App has multiple features -
 7- Feed 
 8- Toll free number/ expert assistance
 
-The best thing about the app is its built in 10 days !!! 
-
 ### Technology used
 * Google Cloud VM & AMD instances for deploying ML model
 * Flutter
